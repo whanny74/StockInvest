@@ -17,7 +17,8 @@ nav = [
   { "1주차 퀴즈 해설" = "quizzes/week01-answers.md" },
   { "2~8주차 퀴즈 해설" = "quizzes/answers.md" },
 ]
-extra_css = ["stylesheets/lesson.css"]
+extra_css = ["stylesheets/lesson.css", "stylesheets/portfolio.css"]
+extra_javascript = ["assets/portfolio-config.js", "assets/portfolio.js"]
 
 [project.theme]
 language = "ko"

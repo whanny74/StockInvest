@@ -2,3 +2,9 @@
 site/
 .cache/
 private/
+.wrangler/
+.dev.vars
+.dev.vars.*
+.env
+.env.*
+node_modules/

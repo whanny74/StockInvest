@@ -24,3 +24,5 @@ py -3.14 -m venv .venv
 4. 배포가 성공하면 **Settings → Pages**에 표시된 주소를 엽니다. 주소가 확정되면 `zensical.toml`의 `[project]` 아래에 `site_url`로 추가합니다.
 
 수업 원본인 `docs/`를 수정하고, 새 주차 페이지는 `zensical.toml`의 메뉴에 추가합니다. 개인 기록은 로컬의 `private/` 또는 별도 개인 메모에 보관합니다.
+
+가족 모의투자 기록의 서버 배포와 코드 설정은 [기록지 운영 안내](portfolio-api/README.md)를 참고합니다.

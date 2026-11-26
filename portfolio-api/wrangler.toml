@@ -1,0 +1,14 @@
+name = "stockinvest-family-records"
+main = "worker.mjs"
+compatibility_date = "2026-11-26"
+workers_dev = true
+preview_urls = false
+
+[vars]
+SITE_ORIGIN = "https://whanny74.github.io"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "stockinvest-family-records"
+database_id = "fb32b5d4-84fe-45ee-a2c1-6bc3a4a65bc3"
+migrations_dir = "migrations"
