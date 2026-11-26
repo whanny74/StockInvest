@@ -1,6 +1,8 @@
 # 처음 배우는 주식투자
 
-투자 경험이 없는 대학생을 위한 8주 과정입니다. 현재 [홈](docs/index.md), [1주차 수업](docs/weeks/week01-stock-and-company.md), [모의투자 기록지](docs/activities/portfolio-template.md), [퀴즈 해설](docs/quizzes/week01-answers.md)을 제공합니다.
+투자 경험이 없는 대학생을 위한 8주 과정입니다. 주차별 수업은 [홈과 과정표](docs/index.md)에서 열 수 있습니다. [모의투자 기록지](docs/activities/portfolio-template.md), [주차별 활동지](docs/activities/worksheets.md), [1주차 퀴즈 해설](docs/quizzes/week01-answers.md), [2~8주차 퀴즈 해설](docs/quizzes/answers.md)을 함께 제공합니다.
+
+[공개 학습 사이트](https://whanny74.github.io/StockInvest/)
 
 ## Windows에서 미리보기
 

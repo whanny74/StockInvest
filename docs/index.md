@@ -16,14 +16,14 @@
 | 주차 | 주제 | 결과물 |
 | --- | --- | --- |
 | [1주](weeks/week01-stock-and-company.md) | 주식과 기업 | 첫 모의 배분안 |
-| 2주 | 수익률과 손실 | 수익률 계산표 |
-| 3주 | 기업의 사업과 경쟁력 | 같은 업종의 기업 비교표 |
-| 4주 | 사업보고서 읽기 | 공시에서 찾은 숫자와 질문 |
-| 5주 | 기업과 가격 평가 | PER 비교와 해석 |
-| 6주 | ETF와 분산투자 | 배분안 수정 기록 |
-| 7주 | 뉴스와 투자심리 | 기사와 원문 공시 대조표 |
-| 8주 | 나의 투자 원칙 | 1페이지 투자 원칙 |
+| [2주](weeks/week02-return-and-risk.md) | 수익률과 손실 | 수익률 계산표 |
+| [3주](weeks/week03-good-company.md) | 기업의 사업과 경쟁력 | 같은 업종의 기업 비교표 |
+| [4주](weeks/week04-financial-statements.md) | 사업보고서 읽기 | 공시에서 찾은 숫자와 질문 |
+| [5주](weeks/week05-valuation.md) | 기업과 가격 평가 | PER 비교와 해석 |
+| [6주](weeks/week06-portfolio.md) | ETF와 분산투자 | 배분안 수정 기록 |
+| [7주](weeks/week07-news-and-psychology.md) | 뉴스와 투자심리 | 기사와 원문 공시 대조표 |
+| [8주](weeks/week08-my-investment-rules.md) | 나의 투자 원칙 | 1페이지 투자 원칙 |
 
-현재 1주차 수업과 실습 자료를 이용할 수 있습니다.
+[주차별 활동지](activities/worksheets.md) · [1주차 퀴즈 해설](quizzes/week01-answers.md) · [2~8주차 퀴즈 해설](quizzes/answers.md)
 
 실습은 가상의 돈으로 진행합니다. 투자에는 원금 손실 위험이 있습니다.

@@ -48,4 +48,4 @@
 | --- | ---: | --- | --- |
 | | | | |
 
-[1주차 퀴즈 해설 보기](../quizzes/week01-answers.md)
+[1주차 퀴즈 해설](../quizzes/week01-answers.md) · [2주차 수익률 계산 활동지](worksheets.md#week02) · [6주차 자산배분 활동지](worksheets.md#week06)
