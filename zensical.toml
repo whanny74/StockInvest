@@ -1,0 +1,21 @@
+[project]
+site_name = "처음 배우는 주식투자"
+site_url = "https://whanny74.github.io/StockInvest/"
+site_description = "대학생 투자 입문자를 위한 8주 학습 과정"
+nav = [
+  { "홈" = "index.md" },
+  { "1주차 · 주식과 기업" = "weeks/week01-stock-and-company.md" },
+  { "모의투자 기록지" = "activities/portfolio-template.md" },
+  { "1주차 퀴즈 해설" = "quizzes/week01-answers.md" },
+]
+extra_css = ["stylesheets/lesson.css"]
+
+[project.theme]
+language = "ko"
+font = false
+features = ["navigation.footer", "content.code.copy"]
+
+[[project.theme.palette]]
+scheme = "default"
+primary = "teal"
+accent = "teal"
